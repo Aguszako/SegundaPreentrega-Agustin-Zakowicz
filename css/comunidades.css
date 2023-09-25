@@ -1,0 +1,37 @@
+body{background-color: #34312D;}
+.section-padding{
+    padding: 100px 30px;
+ }
+ .imagencomunidad{
+    margin-right: 3%;
+ }
+
+ .about-text{
+
+    text-align: center;
+    background-color: black;
+    
+    
+ }
+
+.parrafomanejo{
+    color: white;
+    
+}
+ .parrafocom{
+    font-size: 1.1rem;
+    color: bisque;
+ }
+ 
+ .img-fluid{
+    height: 120px;
+    width: 120px;
+ }
+
+ .card{
+    height: 285px;
+    width: 220px;
+    display: flex;
+    align-items: center;
+ }
+ 
